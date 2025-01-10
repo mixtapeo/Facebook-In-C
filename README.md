@@ -1,6 +1,6 @@
 # Text-Based Facebook Simulation
 
-A C-based project simulating a basic, text-based version of Facebook. This project involves implementing imperative programming concepts such as structures, memory allocation, and linked lists to manage users, their profiles, posts, and friendships.
+A C-based project simulating a basic, text-based version of Facebook. This project involves implementing imperative programming concepts such as structures, memory allocation, and linked lists to manage users, their profiles, posts, and friendships. This project was created as an assignment submission for SYSC2006 (Foundation of Imperative Programming in C).
 
 ## Table of Contents
 1. [Features](#features)
@@ -41,7 +41,7 @@ This project simulates the backend operations of a simplified social media platf
 - **Development Environment:** Visual Studio Code (recommended).
 - **Constraints:**
   - No global variables.
-  - Use only the concepts covered in the specified lectures (1–20).
+  - Use only the concepts covered in the specified lectures (1–20) (SYSC2006).
 
 ## Setup and Compilation
 1. Clone the repository:
